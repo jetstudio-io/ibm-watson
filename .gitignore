@@ -1,0 +1,14 @@
+# IDE tools
+.idea
+.vscode
+.projects
+
+# ENV file
+.env.local
+.env.local.php
+
+# Composer vendor
+vendor
+
+# Test tools cache files
+.phpcs-cache
